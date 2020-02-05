@@ -20,13 +20,13 @@
 
 .login-container form label{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-around;
 
 }
 
-.login-container form select{    
+.login-container form input{    
     border:  1px solid #ddd;
     border-radius: 4px;
     height: 48px;
